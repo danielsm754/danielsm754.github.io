@@ -76,11 +76,11 @@ nav ul li a{
     color:#10909e;
 }
 .projects{
-    background-color: #42ebd7;
+    background-color: #10909e;
     transition: font-size 5s;
 }
 .projects:hover{
-    background: #10909e;
+    background: #42ebd7;
     font-size: 2rem;
 }
 
@@ -90,7 +90,7 @@ footer #references{
 }
 
 footer{
-    background-color: #42ebd7;
+    background-color: #10909e;
     padding:1rem;
 }
 
@@ -108,7 +108,7 @@ footer{
 
 #skills ul li{
     list-style: none;
-    background-color: #10909e;
+    background-color: #42ebd7;
     border:solid 1px black;
     border-radius: 10px;
     padding:2rem;
